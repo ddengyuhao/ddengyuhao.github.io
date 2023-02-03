@@ -11,9 +11,9 @@ title                    : "Deng Yuhao"
 title_separator          : "-"
 name                     : &name "Deng Yuhao"
 description              : &description "Ph.D. Student in Computer Science @ BIT"
-url                      : https://dengyuhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ddengyuhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ddengyuhao/dengyuhao.github.io"
+repository               : "ddengyuhao/ddengyuhao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
