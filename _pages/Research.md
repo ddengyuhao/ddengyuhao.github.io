@@ -13,7 +13,7 @@ nav_order: 1
 
 {% assign counter = 1 %}
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single.html index=counter %}
   {% assign counter = counter | plus: 1 %}
 {% endfor %}
 
