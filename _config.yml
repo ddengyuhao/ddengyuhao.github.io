@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "dyh@bit.edu.cn"
+  email            : "dyh18@bit.edu.cn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -265,6 +265,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll/scholar
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -301,6 +303,63 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+
+# -----------------------------------------------------------------------------
+# Jekyll Archives
+# -----------------------------------------------------------------------------
+
+jekyll-archives:
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  layouts:
+    year: archive-year
+    tag: archive-tag
+    category: archive-category
+  permalinks:
+    year: '/blog/:year/'
+    tag: '/blog/tag/:name/'
+    category: '/blog/category/:name/'
+
+display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+
+# -----------------------------------------------------------------------------
+# Jekyll Scholar
+# -----------------------------------------------------------------------------
+
+scholar:
+
+  last_name: Wang
+  first_name: [Jiayi]
+
+  style: apa
+  locale: en
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+  # Note: if you have latex math in your bibtex, the latex filter
+  # preprocessing may conflict with MathJAX if the latter is enabled.
+  # See https://github.com/alshedivat/al-folio/issues/357.
+  bibtex_filters: [latex, smallcaps, superscript]
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+badges: # Display different badges for your publications
+  altmetric_badge: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions_badge: false # Dimensions badge (https://badge.dimensions.ai/)
+
+# Filter out certain bibtex entry keywords used internally from the bib output
+filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+
+# Maximum number of authors to be shown for each publication (more authors are visible on click)
+max_author_limit: 8  # leave blank to always show all authors
+more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 
 # HTML Compression
