@@ -12,7 +12,7 @@ nav_order: 1
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% capture index %}{{ forloop.index }}{% endcapture %}
+  {% capture index %}{{ forloop.index0 | plus: 1 }}{% endcapture %}
   {% include archive-single.html index=index %}
 {% endfor %}
 
