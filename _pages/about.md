@@ -10,6 +10,8 @@ redirect_from:
 
 ## About me
 
-I am a Ph.D. student in the Department of Computer Science, Beijing Institute of Technology. My research interests are mainly in Data Cleaning and Data Lake.
+I am a now a 1st-year Ph.D. student in CS of BIT, mentored by Prof. Ye Yuan. I also actively collaborate with Prof. Chengliang Chai. 
 
-Before coming to BIT, I received my Bachelor's degree in School Of Computer Science And Engineering Northeastern University.
+My previous research mainly faces on data preparation. Now my research interests are mainly in query optimization in data lake.
+
+
