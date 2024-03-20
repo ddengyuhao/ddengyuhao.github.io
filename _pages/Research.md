@@ -13,7 +13,7 @@ nav_order: 1
 
 {% for post in site.publications reversed %}
   {% capture index %}{{ forloop.index }}{% endcapture %}
- # {% include archive-single.html index=index %}
+  {% include archive-single.html index=index %}
 {% endfor %}
 
 <!-- ## Working Papers -->

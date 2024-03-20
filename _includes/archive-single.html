@@ -10,6 +10,7 @@
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
+  <p><strong>{{ index }}.</strong> {{ post.title }}</p>
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
