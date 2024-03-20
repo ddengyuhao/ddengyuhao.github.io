@@ -4,8 +4,8 @@ title: "Awards & Honors"
 # description: In reversed chronological order.
 ---
 
-{% include base_path %}
-{% include toc %}
+<!-- {% include base_path %}
+{% include toc %} -->
 
 <!-- * Internet Protocol addresses (IP)
 * Types of browser
