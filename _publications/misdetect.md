@@ -8,6 +8,5 @@ venue: 'VLDB'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
-
 Authors: **Yuhao Deng**, Chengliang Chai, Lei Cao, Nan Tang, Jiayi Wang, Ju Fan, Ye Yuan, Guoren Wang
 

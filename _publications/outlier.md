@@ -1,5 +1,5 @@
 ---
-title: "MisDetect: Iterative Mislabel Detection using Early Loss"
+title: "Outlier Summarization via Human Interpretable Rules"
 collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
@@ -8,6 +8,5 @@ venue: 'VLDB'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
-
-Authors: **Yuhao Deng**, Chengliang Chai, Lei Cao, Nan Tang, Jiayi Wang, Ju Fan, Ye Yuan, Guoren Wang
+Authors: **Yuhao Deng**, Yu Wang, Lei Cao, Lianpeng Qiao, Yuping Wang, Jingzhe Xu, Yizhou Yan, Samuel Madden
 
