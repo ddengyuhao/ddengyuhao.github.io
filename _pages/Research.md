@@ -11,10 +11,10 @@ nav_order: 1
 
 {% include base_path %}
 
-{% assign counter = 1 %}
+{% assign index = 1 %}
 {% for post in site.publications reversed %}
-  {% include archive-single.html index=counter %}
-  {% assign counter = counter | plus: 1 %}
+  {% include archive-single.html index=index %}
+  {% assign index = index | plus: 1 %}
 {% endfor %}
 
 
