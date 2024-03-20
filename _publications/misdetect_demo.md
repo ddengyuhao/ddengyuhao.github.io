@@ -5,6 +5,7 @@ collection: publications
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-6-9
 venue: 'SIGMOD Demo'
+link: 'http://academicpages.github.io/files/paper2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
