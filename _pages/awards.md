@@ -1,7 +1,7 @@
 ---
 permalink: /awards/
 title: "Awards & Honors"
-description: In reversed chronological order.
+# description: In reversed chronological order.
 ---
 
 {% include base_path %}
