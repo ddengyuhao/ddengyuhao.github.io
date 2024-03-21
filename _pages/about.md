@@ -24,4 +24,4 @@ My previous research mainly faces on data preparation. Now my research interests
 ## Education Info 
 
 * Sep 2023 - Now. Ph.D, Dept. of Computer Science, Beijing Institute of Technology, Beijing, China
-* Sep 2018 - Jul 2022. Undergraduate, Dept. of Computer Science and Engineering, Northeastern University, Shen Yang, China
+* Sep 2018 - Jul 2022. Undergraduate, Dept. of Computer Science and Engineering, Northeastern University, Shenyang, China
