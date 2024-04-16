@@ -7,7 +7,17 @@ description: Publications in reversed chronological order.
 nav_order: 1
 ---
 
+## Main Publications
 
+{% include base_path %}
+
+{% assign index = 1 %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html index=index %}
+  {% assign index = index | plus: 1 %}
+{% endfor %}
+
+## Other Publications
 
 {% include base_path %}
 
