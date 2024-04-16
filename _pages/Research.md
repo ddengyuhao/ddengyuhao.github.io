@@ -19,7 +19,7 @@ nav_order: 1
 
 
 
-<br>
+<p></p>
 
 # Other Publications
 
