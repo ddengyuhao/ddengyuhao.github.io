@@ -1,13 +1,13 @@
 ---
 layout: archive
-# title: "Research"
+title: "Main Publications"
 permalink: /research/
 author_profile: true
 description: Publications in reversed chronological order.
 nav_order: 1
 ---
 
-# Main Publications
+<!-- # Main Publications -->
 
 {% include base_path %}
 
