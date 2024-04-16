@@ -230,16 +230,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # # _otherpapers
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _portfolio
+  # _otherpapers
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  _portfolio
   - scope:
       path: ""
       type: portfolio
