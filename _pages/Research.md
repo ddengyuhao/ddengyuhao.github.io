@@ -22,7 +22,7 @@ nav_order: 1
 {% include base_path %}
 
 {% assign index = 1 %}
-{% for post in site.publications reversed %}
+{% for post in site.otherpapers reversed %}
   {% include archive-single.html index=index %}
   {% assign index = index | plus: 1 %}
 {% endfor %}
