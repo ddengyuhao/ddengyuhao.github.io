@@ -19,8 +19,6 @@ nav_order: 1
 
 # Other Publications
 
-{{ site.publications | jsonify }}
-
 
 {% include base_path %}
 
