@@ -19,6 +19,9 @@ nav_order: 1
 
 # Other Publications
 
+{{ site | jsonify }}
+
+
 {% include base_path %}
 
 {% assign index = 1 %}
