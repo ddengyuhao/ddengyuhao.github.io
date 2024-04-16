@@ -19,9 +19,8 @@ nav_order: 1
 
 
 
-
-
-<br># Other Publications
+<br>
+# Other Publications
 
 
 {% include base_path %}
