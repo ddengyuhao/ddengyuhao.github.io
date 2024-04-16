@@ -7,7 +7,7 @@ description: Publications in reversed chronological order.
 nav_order: 1
 ---
 
-## Main Publications
+## <font color="red">Main Publications</font>
 
 {% include base_path %}
 
