@@ -5,7 +5,7 @@ collection: publications
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-8-25
 venue: 'VLDB'
-link: 'http://academicpages.github.io/files/paper2.pdf'
+link: 'https://www.vldb.org/pvldb/vol17/p1591-deng.pdf'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 Authors: **Yuhao Deng**, Yu Wang, Lei Cao, Lianpeng Qiao, Yuping Wang, Jingzhe Xu, Yizhou Yan, Samuel Madden
