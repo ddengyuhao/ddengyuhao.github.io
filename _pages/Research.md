@@ -19,7 +19,7 @@ nav_order: 1
 
 
 
-<br>
+<!-- <br>
 <br>
 
 # Other Publications
@@ -31,7 +31,7 @@ nav_order: 1
 {% for post in site.otherpapers reversed %}
   {% include archive-single.html index=index %}
   {% assign index = index | plus: 1 %}
-{% endfor %}
+{% endfor %} -->
 
 
 <!-- ## Working Papers -->
