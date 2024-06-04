@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I am now a 1st-year Ph.D. student in CS of BIT, mentored by Prof. <span style="color:rgb(154, 53, 78);">Ye Yuan</span>. I also actively collaborate with Prof. <span style="color:rgb(154, 53, 78);">Chengliang Chai</span>. 
+I am now a Ph.D. student in CS of BIT, mentored by Prof. <span style="color:rgb(154, 53, 78);">Ye Yuan</span>. I also actively collaborate with Prof. <span style="color:rgb(154, 53, 78);">Chengliang Chai</span>. 
 
 My previous research mainly faces on data preparation. Now my research interests are mainly in query optimization in data lake.
 
