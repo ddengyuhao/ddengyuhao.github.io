@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Main Publications"
+title: "Publications"
 permalink: /research/
 author_profile: true
 description: Publications in reversed chronological order.
