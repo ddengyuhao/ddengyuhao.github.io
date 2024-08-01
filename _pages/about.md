@@ -12,7 +12,7 @@ redirect_from:
 
 I am now a Ph.D. student in CS of BIT, mentored by Prof. <span style="color:rgb(154, 53, 78);">Ye Yuan</span>. I also actively collaborate with Prof. <span style="color:rgb(154, 53, 78);">Chengliang Chai</span>. 
 
-My previous research mainly faces on data preparation. Now my research interests are mainly in query optimization in data lake.
+My research interests are mainly about data lake.
 
 
 ## Professional Services
@@ -20,6 +20,8 @@ My previous research mainly faces on data preparation. Now my research interests
 
 ## Activities
 * CIKM 2024 Reviewer
+* ICDE 2025 Reviewer
+
 
 ## Education Info 
 
