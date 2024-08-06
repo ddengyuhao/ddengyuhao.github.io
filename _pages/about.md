@@ -14,7 +14,8 @@ I am now a Ph.D. student in CS of BIT, mentored by Prof. <span style="color:rgb(
 
 My research interests are mainly about data lake.
 
-Data scientists spend more than 90% time on data discovery, data cleaning and integration, (i.e. data curation) before analysis over the data lake. Hence, data ingest into an uncurated "data swamp" is just the tip of a data consolidation iceberg. A huge amount of effort will have to be subsequently invested to turn the swamp into a data lake. 
+<!-- Data scientists spend more than 90% time on data discovery, data cleaning and integration, (i.e. data curation) before analysis over the data lake. Hence, data ingest into an uncurated "data swamp" is just the tip of a data consolidation iceberg. A huge amount of effort will have to be subsequently invested to turn the swamp into a data lake. 
+ -->
 
 
 ## Professional Services
