@@ -6,7 +6,7 @@ author_profile: true
 description: Publications in reversed chronological order.
 nav_order: 1
 ---
-
+\* indicates equal contribution
 <!-- # Main Publications -->
 
 {% include base_path %}
