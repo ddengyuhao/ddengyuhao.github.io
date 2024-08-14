@@ -9,5 +9,5 @@ link: 'https://dl.acm.org/doi/10.1145/3626246.3654737'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
-Authors: Chengliang Chai, **Yuhao Deng\***, Yutong Zhan, Ziqi Cao, Yuanfang Zhang, Lei Cao, Yuping Wang, Zhiwei Zhang, Ye Yuan, Guoren Wang, Nan Tang
+Authors: Chengliang Chai\*, **Yuhao Deng\***, Yutong Zhan, Ziqi Cao, Yuanfang Zhang, Lei Cao, Yuping Wang, Zhiwei Zhang, Ye Yuan, Guoren Wang, Nan Tang
 
