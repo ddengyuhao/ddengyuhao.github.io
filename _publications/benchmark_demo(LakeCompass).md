@@ -5,7 +5,7 @@ collection: publications
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-8-25
 venue: 'VLDB Demo'
-link: 'https://dl.acm.org/doi/10.1145/3626246.3654737'
+link: '[https://dl.acm.org/doi/10.1145/3626246.3654737](https://www.vldb.org/pvldb/vol17/p4381-chai.pdf)'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
