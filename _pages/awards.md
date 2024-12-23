@@ -1,7 +1,7 @@
 ---
 permalink: /awards/
 title: "Awards & Honors"
-# description: In reversed chronological order.
+description: In reversed chronological order.
 ---
 
 <!-- {% include base_path %}
@@ -13,3 +13,7 @@ title: "Awards & Honors"
 * Date and time stamp
 * Referring and exit pages
 * Number of clicks -->
+
+
+
+2024 - National Scholarship
