@@ -22,7 +22,7 @@ My research interests are mainly about data lake.
 
 
 ## Activities
-* CIKM 2024 Reviewer
+* CIKM 2024,2025 Reviewer
 * ICDE 2025 Reviewer
 
 
