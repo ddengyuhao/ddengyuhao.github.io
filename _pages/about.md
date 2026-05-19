@@ -24,6 +24,7 @@ My research interests are mainly about data lake.
 ## Activities
 * ICML 2026 Gold Reviewer
 * ICDE 2025,2026 Reviewer
+* NIPS 2026 Reviewer
 * CIKM 2024,2025,2026 Reviewer
 * TKDE 2024,2025,2026 Reviewer
 * ECIR 2026 Reviewer
